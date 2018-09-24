@@ -1,0 +1,14 @@
+[04-Aug-2018 10:03:17 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/b0a896910ll8/public_html/gravo/content/updatepassword.php on line 11
+[19-Sep-2018 12:21:44 Asia/Singapore] PHP Warning:  mysqli_query(): Empty query in /home/b0a896910ll8/public_html/gravo/content/changepassword.php on line 69
+[19-Sep-2018 12:43:22 Asia/Singapore] PHP Notice:  Undefined index: token in /home/b0a896910ll8/public_html/gravo/content/changepassword.php on line 3
+[19-Sep-2018 12:43:22 Asia/Singapore] PHP Notice:  Undefined index: type in /home/b0a896910ll8/public_html/gravo/content/changepassword.php on line 4
+[19-Sep-2018 12:43:22 Asia/Singapore] PHP Warning:  mysqli_query(): Empty query in /home/b0a896910ll8/public_html/gravo/content/changepassword.php on line 69
+[19-Sep-2018 13:53:17 Asia/Singapore] PHP Notice:  Undefined index: token in /home/b0a896910ll8/public_html/gravo/content/changepassword.php on line 3
+[19-Sep-2018 13:53:17 Asia/Singapore] PHP Notice:  Undefined index: type in /home/b0a896910ll8/public_html/gravo/content/changepassword.php on line 4
+[19-Sep-2018 13:53:17 Asia/Singapore] PHP Warning:  mysqli_query(): Empty query in /home/b0a896910ll8/public_html/gravo/content/changepassword.php on line 69
+[19-Sep-2018 13:53:18 Asia/Singapore] PHP Notice:  Undefined index: token in /home/b0a896910ll8/public_html/gravo/content/changepassword.php on line 3
+[19-Sep-2018 13:53:18 Asia/Singapore] PHP Notice:  Undefined index: type in /home/b0a896910ll8/public_html/gravo/content/changepassword.php on line 4
+[19-Sep-2018 13:53:18 Asia/Singapore] PHP Warning:  mysqli_query(): Empty query in /home/b0a896910ll8/public_html/gravo/content/changepassword.php on line 69
+[20-Sep-2018 10:18:25 Asia/Singapore] PHP Notice:  Undefined index: token in /home/b0a896910ll8/public_html/gravo/content/changepassword.php on line 3
+[20-Sep-2018 10:18:25 Asia/Singapore] PHP Notice:  Undefined index: type in /home/b0a896910ll8/public_html/gravo/content/changepassword.php on line 4
+[20-Sep-2018 10:18:25 Asia/Singapore] PHP Warning:  mysqli_query(): Empty query in /home/b0a896910ll8/public_html/gravo/content/changepassword.php on line 69
